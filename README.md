@@ -4,7 +4,7 @@ A repo for organising talk proposals and discussing talks with speakers
 
 ## Talk Format
 
-- Each event has 1 speaker slots available.  
+- Each event has up to 2 speaker slots available.  
 - Each talk is allocated 20 minute, however this can be altered on a per-case basis.
 
 ## How
