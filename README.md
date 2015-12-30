@@ -1,5 +1,4 @@
-# NottsJs Talks
-
+# NottsJS Talks
 A repo for organising talk proposals and discussing talks with speakers
 
 ## Talk Format
