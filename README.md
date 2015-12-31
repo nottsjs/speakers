@@ -25,3 +25,5 @@ Please tweet a url to your slides and put the link in your proposal as a comment
 
 Thanks,
 <3 NottsJs team
+
+[![Gitter chat](https://badges.gitter.im/gitterHQ/gitter.png)](https://gitter.im/nottsjs/discuss)
