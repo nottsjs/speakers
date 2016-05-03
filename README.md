@@ -16,6 +16,9 @@ Please structure the issue as following:
 
 If you are looking for feedback on your talk or have additional question, reply to your issue with  **extra comments** stating your questions but please keep them off the body of the original issue text itself
 
+## Who
+Everyone is welcome to speak we take our [Code of Conduct](http://nottsjs.org/codeofconduct.html) very seriously.
+
 ## Confirmation
 - Once your issue is assigned a milestone, it has been approved and confirmed.  
 - Check the milestone date for confirmation of the event date.
